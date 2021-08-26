@@ -14,6 +14,8 @@
     }
     .card_img {
         box-shadow: 0 2px 30px rgb(0 0 0/50%);
+        border-bottom: 2px solid;
+        border-bottom-color: #ffffff6e;
     }
     .back {
         position: static;
